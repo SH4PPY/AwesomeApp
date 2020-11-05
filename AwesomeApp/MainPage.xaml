@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="AwesomeApp.MainPage">
+
+    <StackLayout>
+        <!-- Place new controls here -->
+        <Label Text="Hello Universe!" 
+            HorizontalOptions="CenterAndExpand"
+            VerticalOptions="CenterAndExpand"
+            BackgroundColor="DarkBlue"
+            TextColor="DarkOrange"/>
+		<Label Text="Welcome to Xamarin" 
+            HorizontalOptions="CenterAndExpand"
+            VerticalOptions="CenterAndExpand"
+            BackgroundColor="DarkBlue"
+            TextColor="DarkOrange"/>
+		<Button Text="Click Me!" Clicked="Handle_Clicked"
+            BackgroundColor="DarkBlue"
+            TextColor="DarkOrange"/>
+    </StackLayout>
+
+</ContentPage>

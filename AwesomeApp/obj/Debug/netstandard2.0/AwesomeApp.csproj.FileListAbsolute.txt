@@ -1,0 +1,28 @@
+C:\Users\Hannah\Desktop\James' Stuff\AppDev\AwesomeApp\AwesomeApp\bin\Debug\netstandard2.0\AwesomeApp.deps.json
+C:\Users\Hannah\Desktop\James' Stuff\AppDev\AwesomeApp\AwesomeApp\bin\Debug\netstandard2.0\AwesomeApp.dll
+C:\Users\Hannah\Desktop\James' Stuff\AppDev\AwesomeApp\AwesomeApp\bin\Debug\netstandard2.0\ref\AwesomeApp.dll
+C:\Users\Hannah\Desktop\James' Stuff\AppDev\AwesomeApp\AwesomeApp\bin\Debug\netstandard2.0\AwesomeApp.pdb
+C:\Users\Hannah\Desktop\James' Stuff\AppDev\AwesomeApp\AwesomeApp\obj\Debug\netstandard2.0\AwesomeApp.csprojAssemblyReference.cache
+C:\Users\Hannah\Desktop\James' Stuff\AppDev\AwesomeApp\AwesomeApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Hannah\Desktop\James' Stuff\AppDev\AwesomeApp\AwesomeApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Hannah\Desktop\James' Stuff\AppDev\AwesomeApp\AwesomeApp\obj\Debug\netstandard2.0\AwesomeApp.csproj.CoreCompileInputs.cache
+C:\Users\Hannah\Desktop\James' Stuff\AppDev\AwesomeApp\AwesomeApp\obj\Debug\netstandard2.0\AwesomeApp.AssemblyInfoInputs.cache
+C:\Users\Hannah\Desktop\James' Stuff\AppDev\AwesomeApp\AwesomeApp\obj\Debug\netstandard2.0\AwesomeApp.AssemblyInfo.cs
+C:\Users\Hannah\Desktop\James' Stuff\AppDev\AwesomeApp\AwesomeApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Hannah\Desktop\James' Stuff\AppDev\AwesomeApp\AwesomeApp\obj\Debug\netstandard2.0\AwesomeApp.dll
+C:\Users\Hannah\Desktop\James' Stuff\AppDev\AwesomeApp\AwesomeApp\obj\Debug\netstandard2.0\ref\AwesomeApp.dll
+C:\Users\Hannah\Desktop\James' Stuff\AppDev\AwesomeApp\AwesomeApp\obj\Debug\netstandard2.0\AwesomeApp.pdb
+D:\Documents\Dev\AppDev\AwesomeApp\AwesomeApp\bin\Debug\netstandard2.0\AwesomeApp.deps.json
+D:\Documents\Dev\AppDev\AwesomeApp\AwesomeApp\bin\Debug\netstandard2.0\AwesomeApp.dll
+D:\Documents\Dev\AppDev\AwesomeApp\AwesomeApp\bin\Debug\netstandard2.0\ref\AwesomeApp.dll
+D:\Documents\Dev\AppDev\AwesomeApp\AwesomeApp\bin\Debug\netstandard2.0\AwesomeApp.pdb
+D:\Documents\Dev\AppDev\AwesomeApp\AwesomeApp\obj\Debug\netstandard2.0\AwesomeApp.csprojAssemblyReference.cache
+D:\Documents\Dev\AppDev\AwesomeApp\AwesomeApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Documents\Dev\AppDev\AwesomeApp\AwesomeApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Documents\Dev\AppDev\AwesomeApp\AwesomeApp\obj\Debug\netstandard2.0\AwesomeApp.csproj.CoreCompileInputs.cache
+D:\Documents\Dev\AppDev\AwesomeApp\AwesomeApp\obj\Debug\netstandard2.0\AwesomeApp.AssemblyInfoInputs.cache
+D:\Documents\Dev\AppDev\AwesomeApp\AwesomeApp\obj\Debug\netstandard2.0\AwesomeApp.AssemblyInfo.cs
+D:\Documents\Dev\AppDev\AwesomeApp\AwesomeApp\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Documents\Dev\AppDev\AwesomeApp\AwesomeApp\obj\Debug\netstandard2.0\AwesomeApp.dll
+D:\Documents\Dev\AppDev\AwesomeApp\AwesomeApp\obj\Debug\netstandard2.0\ref\AwesomeApp.dll
+D:\Documents\Dev\AppDev\AwesomeApp\AwesomeApp\obj\Debug\netstandard2.0\AwesomeApp.pdb
